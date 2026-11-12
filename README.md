@@ -22,4 +22,4 @@ Szczegółowy opis roli repozytorium w projekcie znajduje się w katalogu [`docs
 
 ## Stack technologiczny
 
-Do ustalenia przez zespół.
+[ADR 0001](docs/adr/0001-stack-technologiczny.md): Gradle, Java 25, Spring Boot 4.1.x, PostgreSQL 18 z PostGIS, Keycloak, Spring Modulith.

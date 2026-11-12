@@ -85,7 +85,7 @@ Kurs z sekwencją przystanków i godzin odjazdów. Backend monitoruje pozycję a
 
 ## 5. Do ustalenia
 
-- Stack technologiczny (język, framework, baza danych).
+- Stack technologiczny — ustalony w [ADR 0001](adr/0001-stack-technologiczny.md).
 - Protokół przesyłania lokalizacji (REST / WebSocket / inne).
 - Algorytm obliczania ETA i źródło danych o trasach / ruchu drogowym.
 - Format i wersjonowanie API.
